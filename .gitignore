@@ -1,4 +1,4 @@
 # Ignore MySQL socket and data files
 inventory-service/docker
 
-product-service/data
+
